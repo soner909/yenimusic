@@ -1,2 +1,2 @@
-# yenimusic
-yenimusic projesi
+# SolfejMusic
+Bootstrap kullanılarak yapıldı.
